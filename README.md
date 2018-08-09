@@ -1,2 +1,2 @@
 # Weight-
-Bjj stuff yeah
+Bjj weight category calculator
